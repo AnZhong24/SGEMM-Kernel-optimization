@@ -6,7 +6,7 @@ This repository contains various CUDA kernel implementations for matrix multipli
 
 ## Tested Environment
 
-- **GPU:** NVIDIA GTX 1090
+- **GPU:** NVIDIA GTX 1080
 
 ## Performance Comparison
 
